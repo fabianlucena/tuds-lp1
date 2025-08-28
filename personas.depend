@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1756408962 source:c:\proyectos01\fabianlucena\tudslp1\personas\main.c
+	"menu.h"
+	"persona.h"
+	<stdio.h>
+	<locale.h>
+
+1754599832 c:\proyectos01\fabianlucena\tudslp1\personas\menu.h
+
+1756407195 source:c:\proyectos01\fabianlucena\tudslp1\personas\menu.c
+	"menu.h"
+	<stdio.h>
+
+1755207333 c:\proyectos01\fabianlucena\tudslp1\personas\persona.h
+
+1756409060 source:c:\proyectos01\fabianlucena\tudslp1\personas\persona.c
+	"persona.h"
+	<stdio.h>
+	<stdlib.h>
+	<mem.h>
+
